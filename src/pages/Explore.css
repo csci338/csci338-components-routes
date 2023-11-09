@@ -1,0 +1,14 @@
+.carousel-container {
+    max-width: 70vw;
+    background: #364d79;
+    width: 100%;
+}
+
+.slide {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 260px;
+    color: #fff;
+}
