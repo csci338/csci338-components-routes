@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <div class="Child">
+        <div className="Child">
             <section>
                 <h1>Home Component</h1>
             </section>

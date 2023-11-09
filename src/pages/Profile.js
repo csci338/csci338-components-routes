@@ -1,6 +1,6 @@
 function Profile() {
     return (
-        <div class="Child">
+        <div className="Child">
             <section>
                 <h1>Profile Component</h1>
             </section>

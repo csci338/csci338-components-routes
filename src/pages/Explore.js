@@ -1,6 +1,6 @@
 function Explore() {
     return (
-        <div class="Child">
+        <div className="Child">
             <section>
                 <h1>Explore Component</h1>
             </section>
