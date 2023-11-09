@@ -1,0 +1,21 @@
+.Nav {
+    position: fixed;
+    top: 0;
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 2px black;
+    width: 100vw;
+    height: 50px;
+}
+
+.Nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 30px;
+}

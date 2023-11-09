@@ -1,0 +1,13 @@
+/* CSS for Home.js */
+.Layout {
+    margin-top: 80px;
+    display: grid;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.Child {
+    border: solid 2px black;
+    min-height: 400px;
+    padding: 20px 50px;
+}
